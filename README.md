@@ -91,12 +91,28 @@
 
 ## Prediction
 
-### Utilize machine learning models to accurately forecast total sales, enabling data-driven insights and strategic planning.
+### Machine Learning Models for Total Sales Forecasting
 
-#### Models used
-* Linear Regression
-* Decision Tree Regression
-* KNeighbors Regressor
+Utilize machine learning models to accurately forecast **total sales** , enabling data-driven insights and strategic planning.
+
+#### Models Employed
+- **Linear Regression**
+- **Decision Tree Regression**
+- **K-Nearest Neighbors (KNN) Regression**
+
+#### Evaluation Metrics
+To assess the performance of each model, the following metrics were used:
+1. **Mean Absolute Error (MAE)** – Measures the average magnitude of errors in predictions, without considering their direction.
+2. **Mean Squared Error (MSE)** – Evaluates the average of the squared differences between predicted and actual values, penalizing larger errors.
+3. **R-Squared (R²)** – Represents the proportion of the variance for the dependent variable that's explained by the model.
+
+#### Model Performance Summary
+
+![Model Performance](https://github.com/user-attachments/assets/89514b3f-e5d8-4480-b2ae-552ce364e899)
+
+From the image above, the results indicate that the **Linear Regression** model performed the best, achieving:
+- The **lowest MAE**, indicating more accurate predictions with smaller errors.
+- The **highest R² score**, showing a stronger explanatory power.
 
 
 ## Dashboards
