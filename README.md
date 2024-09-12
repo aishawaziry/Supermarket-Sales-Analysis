@@ -24,7 +24,7 @@
 * Rating: Customer stratification rating on their overall shopping experience (On a scale of 1 to 10)
 
 ## Workflow of the project
-#### This taken through the whole project to get the insight and results:
+#### Steps taken through the whole project to get the insight and results:
 * Data Wrangling
 * Visualization Using Python
 * Prediction
