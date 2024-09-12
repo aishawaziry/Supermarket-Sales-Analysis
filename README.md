@@ -117,36 +117,36 @@
     <tr>
         <td align="center" valign="top" width="20%">
             <a href="https://github.com/Nada-21">
-                <img alt="Nada Ahmed" src="https://avatars.githubusercontent.com/aishawaziry" width="100px;">
+                <img alt="Aisha Amr" src="https://avatars.githubusercontent.com/aishawaziry" width="100px;">
                 <br/>
-                <sub><b>Nada Ahmed</b></sub>
+                <sub><b>Aisha Amr</b></sub>
             </a>
             <br/>
             <span>Backend</span>
         </td>
         <td align="center" valign="top" width="20%">
-            <a href="https://github.com/Karemanyasser">
-                <img alt="Kareman Yasser" src="https://avatars.githubusercontent.com/esraa12724" width="100px;">
+            <a href="https://github.com/esraa12724">
+                <img alt="esraa12724" src="https://avatars.githubusercontent.com/esraa12724" width="100px;">
                 <br/>
-                <sub><b>Kareman Yasser</b></sub>
+                <sub><b>esraa12724</b></sub>
             </a>
             <br/>
             <span>Backend</span>
         </td>
         <td align="center" valign="top" width="20%">
             <a href="https://github.com/MayarFayez">
-                <img alt="Mayar Fayez" src="https://avatars.githubusercontent.com/abdelazizMsakr" width="100px;">
+                <img alt="abdelazizMsakr" src="https://avatars.githubusercontent.com/abdelazizMsakr" width="100px;">
                 <br/>
-                <sub><b>Mayar Fayez</b></sub>
+                <sub><b>abdelazizMsakr</b></sub>
             </a>
             <br/>
             <span>Frontend</span>
         </td>
         <td align="center" valign="top" width="20%">
             <a href="https://github.com/Yaso01n">
-                <img alt="Yasmin Yasser" src="https://avatars.githubusercontent.com/AsmaaAdel336" width="100px;">
+                <img alt="AsmaaAdel336" src="https://avatars.githubusercontent.com/AsmaaAdel336" width="100px;">
                 <br/>
-                <sub><b>Yasmin Yasser</b></sub>
+                <sub><b>AsmaaAdel336</b></sub>
             </a>
             <br/>
             <span>Backend</span>
