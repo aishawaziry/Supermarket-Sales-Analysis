@@ -1,4 +1,4 @@
-# IMDB Movie Analysis Using Excel
+# Supermarket Sales Analysis 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/cde22788-0e49-454a-ac61-a1ce0a021225"> 
 
