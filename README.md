@@ -1,4 +1,4 @@
-# IMDB Movie Analysis Using Excel
+# Supermarket Sales Analysis 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/cde22788-0e49-454a-ac61-a1ce0a021225"> 
 
@@ -39,10 +39,6 @@
 1. **Data Quality Issues** : These refer to problems or shortcomings in the qualitative or quantitative state of information, such as duplicate data, inaccurate and missing data, inconsistent data, irrelevant data, etc.
 
 2. **Data Tidiness Issues**: These are related to the structure of the data, such as when a column header is a value, multiple variables are stored in one column, multiple columns represent one variable, variables are stored as rows, or observations are spread across multiple tables.
-3. Correct Actor and Director Names:
-    * Fixed issues in actor and director names where characters like «, Ã, and ã appeared instead of ë.
-4. Clean Movie Titles:
-    * Removed the extraneous character "Ã" that was added at the end of most movie titles, ensuring they match the original movie names.
 
 ## Issues Found after data discovery
 1. **Duplicated Rows**: The dataset contains 6 duplicated rows.
@@ -60,7 +56,7 @@
 13. **Outliers in Total**: The 'Total' column contains some outliers.
 14. **Outliers in Rating**: The 'Rating' column contains some outliers.
 15. **Non-standard Date Format**: Dates are not in a standard format.
-16. **Column miss spelling**: Correct 'Naypyitaw' to the correct name.
+16. **Column misspelling**: Correct 'Naypyitaw' to the correct name.
 17. **Multiple columns for one variable**: 'Yangon', 'Naypyidaw' and 'Mandalay'
 18. **Columns name headers**: Capitalization in columns name
 
@@ -104,10 +100,17 @@
 
 
 ## Dashboards
+![Screenshot 2024-09-12 160827](https://github.com/user-attachments/assets/9fbfa7ef-4e63-4987-8838-34789ea1d81b)
+![Screenshot 2024-09-12 160849](https://github.com/user-attachments/assets/76de44fe-f7a2-4321-b2f4-46f95a23a6c9)
+![Screenshot 2024-09-12 160915](https://github.com/user-attachments/assets/fc612740-bacd-4c57-9b7e-a0deeacf059f)
+![Screenshot 2024-09-12 154844](https://github.com/user-attachments/assets/12d16e7f-21cd-4357-b725-21b560a82de5)
 
 ## Busniess Report 
 
 ## Conclusion 
+The data cleaning and preprocessing of the `Supermarket Sales` dataset were essential steps to ensure the quality, consistency, and reliability of the data for further analysis. By addressing various issues, including missing values, inconsistent formatting, typographical errors, and outliers, the dataset was transformed into a clean and well-structured form.
+This process not only improved the dataset's overall integrity but also enhanced its usability for analytical purposes, such as customer behavior analysis, sales trend identification, and performance evaluation. The cleaned dataset provides accurate insights that can drive decision-making processes.
+Using Python and powerful data manipulation libraries like Pandas, the challenges were effectively managed, demonstrating the importance of thorough data preparation in any analytical workflow. This project highlights the critical role of data cleaning in ensuring the validity of subsequent analyses and the value it adds in drawing meaningful and actionable insights.
 
 <table>
     <tbody>
@@ -116,7 +119,7 @@
     </tr>
     <tr>
         <td align="center" valign="top" width="20%">
-            <a href="https://github.com/Nada-21">
+            <a href="https://github.com/aishawaziry">
                 <img alt="Aisha Amr" src="https://avatars.githubusercontent.com/aishawaziry" width="100px;">
                 <br/>
                 <sub><b>Aisha Amr</b></sub>
@@ -132,7 +135,7 @@
             <br/>
         </td>
         <td align="center" valign="top" width="20%">
-            <a href="https://github.com/MayarFayez">
+            <a href="https://github.com/abdelazizMsakr">
                 <img alt="abdelazizMsakr" src="https://avatars.githubusercontent.com/abdelazizMsakr" width="100px;">
                 <br/>
                 <sub><b>abdelazizMsakr</b></sub>
@@ -140,7 +143,7 @@
             <br/>
         </td>
         <td align="center" valign="top" width="20%">
-            <a href="https://github.com/Yaso01n">
+            <a href="https://github.com/AsmaaAdel336">
                 <img alt="AsmaaAdel336" src="https://avatars.githubusercontent.com/AsmaaAdel336" width="100px;">
                 <br/>
                 <sub><b>AsmaaAdel336</b></sub>
