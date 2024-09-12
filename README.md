@@ -56,7 +56,7 @@
 13. **Outliers in Total**: The 'Total' column contains some outliers.
 14. **Outliers in Rating**: The 'Rating' column contains some outliers.
 15. **Non-standard Date Format**: Dates are not in a standard format.
-16. **Column miss spelling**: Correct 'Naypyitaw' to the correct name.
+16. **Column misspelling**: Correct 'Naypyitaw' to the correct name.
 17. **Multiple columns for one variable**: 'Yangon', 'Naypyidaw' and 'Mandalay'
 18. **Columns name headers**: Capitalization in columns name
 
