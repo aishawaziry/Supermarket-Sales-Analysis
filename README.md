@@ -122,7 +122,6 @@
                 <sub><b>Aisha Amr</b></sub>
             </a>
             <br/>
-            <span>Backend</span>
         </td>
         <td align="center" valign="top" width="20%">
             <a href="https://github.com/esraa12724">
@@ -131,7 +130,6 @@
                 <sub><b>esraa12724</b></sub>
             </a>
             <br/>
-            <span>Backend</span>
         </td>
         <td align="center" valign="top" width="20%">
             <a href="https://github.com/MayarFayez">
@@ -140,7 +138,6 @@
                 <sub><b>abdelazizMsakr</b></sub>
             </a>
             <br/>
-            <span>Frontend</span>
         </td>
         <td align="center" valign="top" width="20%">
             <a href="https://github.com/Yaso01n">
@@ -149,7 +146,6 @@
                 <sub><b>AsmaaAdel336</b></sub>
             </a>
             <br/>
-            <span>Backend</span>
         </td>
     </tr>
     </table>
