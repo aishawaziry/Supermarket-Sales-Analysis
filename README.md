@@ -100,10 +100,16 @@
 
 
 ## Dashboards
+![Screenshot 2024-09-12 154734](https://github.com/user-attachments/assets/d30333e2-9ed2-451a-8052-d915328645f8)
+![Screenshot 2024-09-12 154820](https://github.com/user-attachments/assets/0b8a87ba-b305-4e54-b2c0-71653bb3314e)
+![Screenshot 2024-09-12 154844](https://github.com/user-attachments/assets/12d16e7f-21cd-4357-b725-21b560a82de5)
 
 ## Busniess Report 
 
 ## Conclusion 
+The data cleaning and preprocessing of the `Supermarket Sales` dataset were essential steps to ensure the quality, consistency, and reliability of the data for further analysis. By addressing various issues, including missing values, inconsistent formatting, typographical errors, and outliers, the dataset was transformed into a clean and well-structured form.
+This process not only improved the dataset's overall integrity but also enhanced its usability for analytical purposes, such as customer behavior analysis, sales trend identification, and performance evaluation. The cleaned dataset provides accurate insights that can drive decision-making processes.
+Using Python and powerful data manipulation libraries like Pandas, the challenges were effectively managed, demonstrating the importance of thorough data preparation in any analytical workflow. This project highlights the critical role of data cleaning in ensuring the validity of subsequent analyses and the value it adds in drawing meaningful and actionable insights.
 
 <table>
     <tbody>
