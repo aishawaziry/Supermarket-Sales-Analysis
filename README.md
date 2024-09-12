@@ -39,10 +39,6 @@
 1. **Data Quality Issues** : These refer to problems or shortcomings in the qualitative or quantitative state of information, such as duplicate data, inaccurate and missing data, inconsistent data, irrelevant data, etc.
 
 2. **Data Tidiness Issues**: These are related to the structure of the data, such as when a column header is a value, multiple variables are stored in one column, multiple columns represent one variable, variables are stored as rows, or observations are spread across multiple tables.
-3. Correct Actor and Director Names:
-    * Fixed issues in actor and director names where characters like «, Ã, and ã appeared instead of ë.
-4. Clean Movie Titles:
-    * Removed the extraneous character "Ã" that was added at the end of most movie titles, ensuring they match the original movie names.
 
 ## Issues Found after data discovery
 1. **Duplicated Rows**: The dataset contains 6 duplicated rows.
