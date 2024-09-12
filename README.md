@@ -100,8 +100,9 @@
 
 
 ## Dashboards
-![Screenshot 2024-09-12 154734](https://github.com/user-attachments/assets/d30333e2-9ed2-451a-8052-d915328645f8)
-![Screenshot 2024-09-12 154820](https://github.com/user-attachments/assets/0b8a87ba-b305-4e54-b2c0-71653bb3314e)
+![Screenshot 2024-09-12 160827](https://github.com/user-attachments/assets/9fbfa7ef-4e63-4987-8838-34789ea1d81b)
+![Screenshot 2024-09-12 160849](https://github.com/user-attachments/assets/76de44fe-f7a2-4321-b2f4-46f95a23a6c9)
+![Screenshot 2024-09-12 160915](https://github.com/user-attachments/assets/fc612740-bacd-4c57-9b7e-a0deeacf059f)
 ![Screenshot 2024-09-12 154844](https://github.com/user-attachments/assets/12d16e7f-21cd-4357-b725-21b560a82de5)
 
 ## Busniess Report 
