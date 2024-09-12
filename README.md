@@ -119,7 +119,7 @@ Using Python and powerful data manipulation libraries like Pandas, the challenge
     </tr>
     <tr>
         <td align="center" valign="top" width="20%">
-            <a href="https://github.com/Nada-21">
+            <a href="https://github.com/aishawaziry">
                 <img alt="Aisha Amr" src="https://avatars.githubusercontent.com/aishawaziry" width="100px;">
                 <br/>
                 <sub><b>Aisha Amr</b></sub>
@@ -135,7 +135,7 @@ Using Python and powerful data manipulation libraries like Pandas, the challenge
             <br/>
         </td>
         <td align="center" valign="top" width="20%">
-            <a href="https://github.com/MayarFayez">
+            <a href="https://github.com/abdelazizMsakr">
                 <img alt="abdelazizMsakr" src="https://avatars.githubusercontent.com/abdelazizMsakr" width="100px;">
                 <br/>
                 <sub><b>abdelazizMsakr</b></sub>
@@ -143,7 +143,7 @@ Using Python and powerful data manipulation libraries like Pandas, the challenge
             <br/>
         </td>
         <td align="center" valign="top" width="20%">
-            <a href="https://github.com/Yaso01n">
+            <a href="https://github.com/AsmaaAdel336">
                 <img alt="AsmaaAdel336" src="https://avatars.githubusercontent.com/AsmaaAdel336" width="100px;">
                 <br/>
                 <sub><b>AsmaaAdel336</b></sub>
