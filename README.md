@@ -125,7 +125,7 @@ From the image above, the results indicate that the **Linear Regression** model 
 * **Sales Managers**: Predicting future sales helps in managing supply chains and inventory, avoiding stockouts or overstocking.
 * **Marketing Teams**: Understanding sales trends supports better budgeting for campaigns and promotions.
 * **Business Strategists**: Data-driven forecasting aids in long-term planning and identifying new growth opportunities.
-By implementing these models, stakeholders gain actionable insights that drive profitability, optimize operations, and enable strategic decision-making.
+##### By implementing these models, stakeholders gain actionable insights that drive profitability, optimize operations, and enable strategic decision-making.
 
 ## Dashboards
 ![Screenshot 2024-09-12 160827](https://github.com/user-attachments/assets/9fbfa7ef-4e63-4987-8838-34789ea1d81b)
