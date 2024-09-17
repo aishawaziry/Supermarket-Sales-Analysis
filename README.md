@@ -121,8 +121,6 @@ From the image above, the results indicate that the **Linear Regression** model 
 ![Screenshot 2024-09-12 160915](https://github.com/user-attachments/assets/fc612740-bacd-4c57-9b7e-a0deeacf059f)
 ![Screenshot 2024-09-12 154844](https://github.com/user-attachments/assets/12d16e7f-21cd-4357-b725-21b560a82de5)
 
-## Busniess Report 
-
 ## Conclusion 
 The data cleaning and preprocessing of the `Supermarket Sales` dataset were essential steps to ensure the quality, consistency, and reliability of the data for further analysis. By addressing various issues, including missing values, inconsistent formatting, typographical errors, and outliers, the dataset was transformed into a clean and well-structured form.
 This process not only improved the dataset's overall integrity but also enhanced its usability for analytical purposes, such as customer behavior analysis, sales trend identification, and performance evaluation. The cleaned dataset provides accurate insights that can drive decision-making processes.
