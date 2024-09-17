@@ -100,6 +100,13 @@ Utilize machine learning models to accurately forecast **total sales** , enablin
 - **Decision Tree Regression**
 - **K-Nearest Neighbors (KNN) Regression**
 
+#### Feature Engineering
+
+* Feature Engineering: Several preprocessing steps were conducted to convert categorical data into numerical form:
+    * Time of purchase was categorized into Morning, Afternoon, Evening, and Night based on the hour.
+    * Date was simplified to the month level (January, February, etc.).
+    * Categorical columns like Product line, Payment method, and City were one-hot encoded for machine learning purposes.
+
 #### Evaluation Metrics
 To assess the performance of each model, the following metrics were used:
 1. **Mean Absolute Error (MAE)** – Measures the average magnitude of errors in predictions, without considering their direction.
@@ -114,6 +121,11 @@ From the image above, the results indicate that the **Linear Regression** model 
 - The **lowest MAE**, indicating more accurate predictions with smaller errors.
 - The **highest R² score**, showing a stronger explanatory power.
 
+#### Stakeholder Benefits
+* **Sales Managers**: Predicting future sales helps in managing supply chains and inventory, avoiding stockouts or overstocking.
+* **Marketing Teams**: Understanding sales trends supports better budgeting for campaigns and promotions.
+* **Business Strategists**: Data-driven forecasting aids in long-term planning and identifying new growth opportunities.
+By implementing these models, stakeholders gain actionable insights that drive profitability, optimize operations, and enable strategic decision-making.
 
 ## Dashboards
 ![Screenshot 2024-09-12 160827](https://github.com/user-attachments/assets/9fbfa7ef-4e63-4987-8838-34789ea1d81b)
